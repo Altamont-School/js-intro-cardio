@@ -5,7 +5,7 @@
 // 1. Declare a variable whose value CANNOT change called `favCourse`
 // Note: This variable should be a string.
 
-// 2. Log the value of `favCourse` to the console using the
+// 2. Log the value of `favCourse` to the console
 
 // 3. Create a variable whose value CAN change called `grade`
 // Note: this variable should be an integer
